@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "pia",
+  "description": "package for nic lerna 管理",
+  "scripts": {
+  },
+  "husky": {
+    "hooks": {
+    }
+  },
+  "keywords": [
+    "pia"
+  ],
+  "author": "Nic.Li",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^3.4.3",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

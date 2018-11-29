@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.0.1",
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+      ],
+      "registry": "https://registry.npmjs.org/"
+    }
+  },
+  "registry": "https://registry.npmjs.org/",
+  "lerna": "3.4.3"
+}
